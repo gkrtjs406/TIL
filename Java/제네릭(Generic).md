@@ -32,6 +32,8 @@ String str = list.get(0); //타입 변환을 하지 않는다
 ## 제네릭 사용방법
 
 보통 제네릭은 아래 표의 타입들이 많이 쓰인다
+
+
 ![image](https://user-images.githubusercontent.com/45414194/175933307-6186640c-4893-48cd-b1a8-11c06b22dada.png)
 
 
