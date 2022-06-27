@@ -32,8 +32,9 @@ String str = list.get(0); //타입 변환을 하지 않는다
 ## 제네릭 사용방법
 
 보통 제네릭은 아래 표의 타입들이 많이 쓰인다
+![image](https://user-images.githubusercontent.com/45414194/175933307-6186640c-4893-48cd-b1a8-11c06b22dada.png)
 
-![image-20220627014516481](C:\Users\COM\AppData\Roaming\Typora\typora-user-images\image-20220627014516481.png)
+
 
 반드시 한 글자일 필요는 없고, 반드시 설명과 일치해야할 필요도없다. 다만 대중적으로 통하는 암묵적인 규칙이 있을 뿐이다
 
