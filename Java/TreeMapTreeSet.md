@@ -10,9 +10,7 @@
 
 -> 이진 트리가 범위 검색을 쉽게 할 수 있는 이유는 값들이 정렬되어 있어 그룹핑이 쉽기 때문이다
 
-![이진트리구조](C:\Users\COM\Desktop\이진트리구조.PNG)
-
-
+![이진트리구조](https://user-images.githubusercontent.com/45414194/177010196-4f849208-d540-4632-a168-ba0ada0a8e47.PNG)
 
 ## TreeSet
 
@@ -24,7 +22,7 @@
 TreeSet<E> treeset = new TreeSet<E>();
 ```
 
-![treeset 검색 관련 메소드](C:\Users\COM\Desktop\treeset 검색 관련 메소드.PNG)
+![treeset 검색 관련 메소드](https://user-images.githubusercontent.com/45414194/177010179-9b82e72b-e4db-4ba7-a64e-8a6be72a5dfc.PNG)
 
 ```java
 TreeSet<Integer> num = new TreeSet<Integer>();
@@ -73,7 +71,7 @@ System.out.println("제거하고 난 뒤 num 사이즈 : " + num.size()); // 결
 
 #### 정렬관련 메소드
 
-![treeset 검색 관련 메소드2](C:\Users\COM\Desktop\treeset 검색 관련 메소드2.PNG)
+![treeset 검색 관련 메소드2](https://user-images.githubusercontent.com/45414194/177010200-c4978a95-da90-46c7-844a-d7f529467a2b.PNG)
 
 1. descendingIterator()
 2. descendingSet()
@@ -120,7 +118,7 @@ System.out.println("-----------");
 
 #### 범위관련 메소드
 
-![treeset 검색 관련 메소드3](C:\Users\COM\Desktop\treeset 검색 관련 메소드3.PNG)
+![treeset 검색 관련 메소드3](https://user-images.githubusercontent.com/45414194/177010202-40d8b8b3-e7b4-4305-b5ab-7d24c741bebe.PNG)
 
 ```java
 TreeSet<Integer> ts = new TreeSet<Integer>();
@@ -197,7 +195,7 @@ TreeMap에 객체 저장하면 자동으로 정렬되는데, 기본적으로 부
 
 다음은 TreeMap이 가지고 있는 검색 관련 메소드들이다
 
-![treemap 검색 관련 메소드](C:\Users\COM\Desktop\treemap 검색 관련 메소드.PNG)
+![treemap 검색 관련 메소드](https://user-images.githubusercontent.com/45414194/177010220-8187176b-3814-4a2d-9b04-2f9b1f38005b.PNG)
 
 ```java
 // 키로 점수를 넣고
@@ -254,7 +252,7 @@ System.out.println("x >= 90 : " + result6.getKey() + "점\t\t학생명 : " + res
 
 #### 정렬관련 메소드
 
-![treemap 검색 관련 메소드2](C:\Users\COM\Desktop\treemap 검색 관련 메소드2.PNG)
+![treemap 검색 관련 메소드2](https://user-images.githubusercontent.com/45414194/177010244-8ea03dbb-dbb0-4307-afbe-9c24e28f94e9.PNG)
 
 ```java
 TreeMap<Integer, String> scores = new TreeMap<Integer, String>();
